@@ -1,0 +1,3 @@
+# Campus Life Companion
+## Chaos Mettler
+### Campus Life Companion is a tool designed to make Resident Assistants and Community Directors’ jobs easier by automating some of the most time-consuming tasks like scheduling desk and duty shifts, planning events, and managing resources. It integrates with Google Workspace, a tool that staff already use, and offers features such as backwards planning for events, a shared resource database, and automated scheduling. By reducing administrative stress, Campus Life Companion allows staff to spend more time on what really matters: building community and supporting students.
