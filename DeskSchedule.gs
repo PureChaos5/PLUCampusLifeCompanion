@@ -1,4 +1,7 @@
-// RA Desk Scheduler - 3 Phases x 4 Loops Architecture
+/**
+ *  RA Desk Scheduler - 3 Phases x 4 Loops Architecture
+ * 
+ **/
 
 function sDDEFG4() {
   const ss = SpreadsheetApp.getActiveSpreadsheet();

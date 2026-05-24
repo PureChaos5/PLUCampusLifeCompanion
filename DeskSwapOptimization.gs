@@ -18,6 +18,7 @@
  *   - maxRAsOnDesk never exceeded in any slot
  *   - Desk time boundaries
  */
+
 function optimizeBlockPreferences(config, ras, schedules) {
   if (config.maxRAsOnDesk <= 1) return;
 
