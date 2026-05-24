@@ -1,1 +1,0 @@
-Todo list can be found in the [ToDo section of my project Google Doc](https://docs.google.com/document/d/18WmcGhPR2WxiZJz4T70g_7851OAt65WMvZG9A0zYsn4/edit?tab=t.hrq5e9vi8vm)
