@@ -1,8 +1,8 @@
 /**
  *  Calendar Code
  * 
- * calUploadDesk() - for adding to the Calander
- * calDeleteDesk() - for clearing the Calander
+ * calUploadDesk() - for adding to the calendar
+ * calDeleteDesk() - for clearing the calendar
  * 
  **/
 
