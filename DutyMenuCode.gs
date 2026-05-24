@@ -2,7 +2,7 @@
  *  Duty Menu Code
  * 
  * onOpen() - makes the Campus Life Companion menu
- * showHelpAlert() & openLinkInNewTab - open the manual
+ * showHelpAlert() & openLinkInNewTab() - open the manual
  * clearDuty() - clears the scheduler
  * baseDutySchedule() - creates a blank schedule
  * 
