@@ -2,7 +2,7 @@
  *  Desk Menu Code
  * 
  * onOpen() - makes the Campus Life Companion menu
- * showHelpAlert() & openLinkInNewTab - open the manual
+ * showHelpAlert() & openLinkInNewTab() - open the manual
  * clearDesk() - clears the scheduler
  * baseDeskSchedule() - creates a blank schedule
  * 
