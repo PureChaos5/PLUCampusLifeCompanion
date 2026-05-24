@@ -1,8 +1,8 @@
 /**
  *  Calendar Code
  * 
- * calUploadDuty() - for adding to the Calander
- * calDeleteDuty() - for clearing the Calander
+ * calUploadDuty() - for adding to the calendar
+ * calDeleteDuty() - for clearing the calendar
  * 
  **/
 
