@@ -133,17 +133,10 @@ function removeAllTriggers() {
       return; 
     }
   
-  // 1. Find and delete any existing triggers for BOTH functions
+  // 1. Find and delete any existing triggers
   var allTriggers = ScriptApp.getProjectTriggers();
   
-  for (var i = 0; i < allTriggers.length; i++) {
-    var currentHandler = allTriggers[i].getHandlerFunction();
-    
-    // Check if the trigger matches EITHER of your functions
-    if (currentHandler === functionToTrigger1 || currentHandler === functionToTrigger2) {
-      ScriptApp.deleteTrigger(allTriggers[i]);
-    }
-  }
+  for (var i = 0; i < allTriggers.length; i++) {ScriptApp.deleteTrigger(allTriggers[i]);}
 
   SpreadsheetApp.getUi().alert('Old triggers cleared.');
 }
